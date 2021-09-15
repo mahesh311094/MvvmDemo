@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QSTest</string>
+    <string name="price">₹ %1$s</string>
+</resources>
